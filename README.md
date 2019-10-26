@@ -1,4 +1,4 @@
-# student-cources
+# Back end
 ######  Created backend where you can add student or cources.
 ######  There are two collections in DB, for students and for cources.
 ######  Cources get fetched from DB and shows on the screen, while creating student account, student can select multiple cources that are available in DB.
