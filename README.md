@@ -1,4 +1,4 @@
-##To select cources just click on the cource name.
+## To select cources just click on the cource name.
 # Back end
 ######  Created backend where you can add student or cources.
 ######  There are two collections in DB, for students and for cources.
